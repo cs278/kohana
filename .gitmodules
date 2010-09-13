@@ -1,6 +1,6 @@
 [submodule "system"]
 	path = system
-	url = git://github.com/kohana/core.git
+	url = git://github.com/cs278/kohana-core.git
 [submodule "modules/codebench"]
 	path = modules/codebench
 	url = git://github.com/kohana/codebench.git
